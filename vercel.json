@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/build.js": {
+      "memory": 3008,
+      "maxDuration": 600
+    }
+  }
+}
